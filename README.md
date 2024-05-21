@@ -1,3 +1,8 @@
+## About this application
+
+This is a Fullstack application developed in Next.js, that allows you to create a simple prompt sharing. I used NextAuth, where each user will log-in through their google account. Also in the development of this application, operations to create a prompt card, edit or delete are used. I used MongoDb database, where is stored users and the prompts.
+
+
 
 ## Getting Started
 
