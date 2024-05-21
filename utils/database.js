@@ -1,7 +1,6 @@
 import mongoose from "mongoose";
 
 let isConnected = false; // track the connection
-require("dotenv").config();
 
 export const connectToDB = async () => {
   mongoose.set("strictQuery", true);
